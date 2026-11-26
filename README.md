@@ -2,6 +2,14 @@
 
 Check whether allowable field values, range limits and labels survived a GIS layer export. Compare the source and delivered GeoPackage side by side before handing the result to a field team.
 
+[Download v0.1.0 ZIP](https://github.com/Uone100/gpkg-domain-handoff/releases/download/v0.1.0/gpkg-domain-handoff-0.1.0.zip)
+
+Install in a Codex project with Node.js 22.20 or newer:
+
+```sh
+npx skills add Uone100/gpkg-domain-handoff -a codex
+```
+
 ## English quickstart
 
 **[Follow the step-by-step tutorial](TUTORIAL.md)**
